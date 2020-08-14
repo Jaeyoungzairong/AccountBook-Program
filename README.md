@@ -1,4 +1,4 @@
-<div align=center size=100>계좌정보와 가계부 프로그램</div><hr/>
+<div align=center>계좌정보와 가계부 프로그램</div><hr/>
 
 #### 1. 주요기능
 ##### ● SQL 연동하여 Data Handling
